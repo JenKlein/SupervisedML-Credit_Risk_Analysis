@@ -2,6 +2,14 @@
 
 
 ## Overview
+The purpose of this project was to build a supervised machine learning model to asses credit risk. Credit risk is an inherently unbalanced classification problem, as good loans easily outnumber risky loans. The imbalanced-learn and scikit-learn libraries were used to build and evaluate the performance of models on whether they should be used to predict credit risk.
+
+### Resources
+* Python
+* Jupyter notebook
+* Imbalanced-learn library
+* Scikit-learn library
+
 
 ## Results
 
