@@ -39,3 +39,4 @@ The purpose of this project was to build a supervised machine learning model to 
 
 
 ## Summary
+Of all the models, the Easy Ensemble AdaBoost Classifier had the highest balanced accuracy score at 73%, meaning that 73% of the time the model predicts credit risk accurately. The Imbalanced Classification Reports for the Easy Ensemble AdaBoost, as well at the Balanced Random Forest Classifier demonstrate high precision scores at 0.99, high recall scores at 0.97. If it’s necessary to use one of the 6 models discussed, it would be advisable to use the Easy Ensemble AdaBoost Classifier model to predict credit risk because of it has the highest accuracy, precision and recall. However, 73% accuracy means that 27% of the time, the model incorrectly predicts credit risk, so it’s recommended to use another model different from those discussed that has a higher accuracy score. 
